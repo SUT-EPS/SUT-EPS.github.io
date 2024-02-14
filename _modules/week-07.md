@@ -8,4 +8,4 @@ Joint distribution of random variables, bivariate distribution, marginal distrib
 
 Univariate functions of two random variables.
 
-  <!-- **Syllabus**{: .label .label-yellow } [PDF](../assets/lectures/Syllabus.pdf) -->
+  **Syllabus**{: .label .label-yellow } [PDF](../assets/lectures/QP.pdf)
