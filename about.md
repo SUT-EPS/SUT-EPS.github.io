@@ -19,18 +19,20 @@ description: >-
 
 ## Course Description
 Main source:
+
 The book "Probability, Random Variables, and Stochastic Processes," written by A. Papoulis and S. U. Pillai.
 
 Secondary sources:
+
 The book "Introduction to Statistics and Probability for Engineering and Pure Sciences," written by Sheldon M. Ross.
 
-Class pages and teaching assistants:
+**Class pages and teaching assistants:**
 
-- Questions and answers, class discussions, and news related to the course, as well as uploading exercise solutions, are all done through the Quera website.
+- Questions and answers, class discussions, and news related to the course, as well as uploading exercise solutions, are all done through the [Quera](https://quera.org/course/add_to_course/course/16593/) website.
 - The schedule for exercise sessions will be announced later.
 - The course assistant is Mr. Arman Malekzadeh (email: <malekzadeh@ieee.org>).
 
-Exercises and exams:
+**Exercises and exams:**
 - The course includes 6 theoretical exercise series and possibly one practical exercise.
 - Time: Saturdays and Tuesdays, from 10:30 AM to 12:00 PM.
 - Location: Class A1, Ibn Sina Building.
