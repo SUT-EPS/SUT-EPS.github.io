@@ -1,6 +1,6 @@
 ---
 name: Arman Malekzadeh
-role: Instructor
+role: Head Teaching Assistant
 email: malekzadeh@ieee.org
 website: https://namra.ir
 linkedin: https://www.linkedin.com/in/arman-malekzadeh/
