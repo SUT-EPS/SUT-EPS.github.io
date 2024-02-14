@@ -18,9 +18,26 @@ description: >-
 ---
 
 ## Course Description
-The Python Fundamentals of Programming course at Sharif University of Technology is a comprehensive and hands-on introduction to the fundamental principles of programming using the Python language. This course offers a structured approach to learning, covering essential topics such as data types, control structures, and data manipulation. Students gain a solid understanding of key programming concepts, including variables, loops, functions, and file handling, essential for developing efficient and robust Python applications. Additionally, the course provides practical exposure to various Python libraries and modules, including NumPy, Matplotlib, and Pandas, enabling students to explore data visualization and analysis techniques.
+Main source:
+The book "Probability, Random Variables, and Stochastic Processes," written by A. Papoulis and S. U. Pillai.
 
-Furthermore, this course emphasizes the significance of clean coding practices, design patterns, and effective debugging strategies, fostering a disciplined approach to software development. Students are introduced to essential programming paradigms such as object-oriented programming (OOP) and algorithmic thinking, equipping them with the necessary skills to design and implement scalable and maintainable Python applications. By the end of the course, students are well-prepared to tackle real-world programming challenges, equipped with a comprehensive understanding of Python's capabilities and best practices in software development.
+Secondary sources:
+The book "Introduction to Statistics and Probability for Engineering and Pure Sciences," written by Sheldon M. Ross.
+
+Class pages and teaching assistants:
+
+- Questions and answers, class discussions, and news related to the course, as well as uploading exercise solutions, are all done through the Quera website.
+- The schedule for exercise sessions will be announced later.
+- The course assistant is Mr. Arman Malekzadeh (email: <malekzadeh@ieee.org>).
+
+Exercises and exams:
+- The course includes 6 theoretical exercise series and possibly one practical exercise.
+- Time: Saturdays and Tuesdays, from 10:30 AM to 12:00 PM.
+- Location: Class A1, Ibn Sina Building.
+- Instructor: Amir Najafi (email: <amir.najafi@sharif.edu>).
+- Each exercise has a non-extendable deadline of 10 days, and the maximum allowable delay is 2 days. A 25% reduction in score will be applied for each day of delay (linear reduction during these 2 days).
+- Practical exercises (if any) will have a separate schedule, which will be announced later. Exercises conflicting with the midterm exam will have an additional 2 days deadline extension.
+- A midterm exam will be held in the second week of Ordibehesht month (exact times will be announced later).
 
 ## Assessment
 - Midterm: 7

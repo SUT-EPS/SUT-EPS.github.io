@@ -20,6 +20,7 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
 schedule:
+  - name: Timeline
   - name: Saturday
     events:
       - name: Lecture
