@@ -2,7 +2,6 @@
 title: Week 6
 ---
 
- ****{: .label }
  **Lecture**{: .label .label-purple }
 
 Conditional distributions.
