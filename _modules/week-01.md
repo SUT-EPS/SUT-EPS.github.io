@@ -4,6 +4,7 @@ title: Week 1
 ---
 
  **Lecture**{: .label .label-purple } 
+ 
  Basic concepts of probability and areas of formation.
 
  Necessary foundations include: set theory and combinatorics.
