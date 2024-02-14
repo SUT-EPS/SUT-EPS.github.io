@@ -7,4 +7,5 @@ title: Week 5
 Continuation of special random variables.
 
 Statistics of a random variable: Mean, variance, etc.
-  <!-- **Syllabus**{: .label .label-yellow } [PDF](../assets/lectures/Syllabus.pdf) -->
+
+  **Assignment 2**{: .label .label-yellow } [PDF](../assets/lectures/Q2.pdf)
