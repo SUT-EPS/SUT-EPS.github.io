@@ -1,11 +1,11 @@
 ---
-title: Week 2
+title: Week 3
 ---
 
  **Lecture**{: .label .label-purple }
 
-Conditional Probabilities and Bayes’ Theorem.
+Repeated tests, Bernoulli trial, example solving, and review.
 
-Conditional Independence and Markov Chain Law, Statistical Independence.
+Probability space, random variable in continuous state.
 
   <!-- **Syllabus**{: .label .label-yellow } [PDF](../assets/lectures/Syllabus.pdf) -->

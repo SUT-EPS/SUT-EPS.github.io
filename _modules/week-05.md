@@ -1,11 +1,10 @@
 ---
-title: Week 2
+title: Week 5
 ---
 
  **Lecture**{: .label .label-purple }
 
-Conditional Probabilities and Bayes’ Theorem.
+Continuation of special random variables.
 
-Conditional Independence and Markov Chain Law, Statistical Independence.
-
+Statistics of a random variable: Mean, variance, etc.
   <!-- **Syllabus**{: .label .label-yellow } [PDF](../assets/lectures/Syllabus.pdf) -->
