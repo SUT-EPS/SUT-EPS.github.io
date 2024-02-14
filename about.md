@@ -18,6 +18,8 @@ description: >-
 ---
 
 ## Course Description
+**Course Sources:**
+
 Main source:
 
 The book "Probability, Random Variables, and Stochastic Processes," written by A. Papoulis and S. U. Pillai.
