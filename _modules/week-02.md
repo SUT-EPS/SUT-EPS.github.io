@@ -1,6 +1,5 @@
 ---
-# week: 1
-title: Week 1
+title: Week 2
 ---
 
  **Lecture**{: .label .label-purple }
@@ -11,5 +10,4 @@ title: Week 1
 
  Probability space, random variables, and Kolmogorov's principles in the discrete case.
 
-
-  **Syllabus**{: .label .label-yellow } [PDF](../assets/lectures/Syllabus.pdf)
+  <!-- **Syllabus**{: .label .label-yellow } [PDF](../assets/lectures/Syllabus.pdf) -->
