@@ -6,7 +6,7 @@ description: >-
     Course policies and information.
 ---
 
-# Engineering Probability and Statistics Course Syllabus
+# Engineering Probability and Statistics
 {:.no_toc}
 
 ## Table of contents

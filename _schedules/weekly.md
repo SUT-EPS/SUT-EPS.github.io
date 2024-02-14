@@ -26,14 +26,14 @@ schedule:
       - name: Lecture
         start: 10:30 AM
         end: 12:00 PM
-        location: Alef 02
+        location: A1, Ibn Sina Building
   - name: Sunday
   - name: Monday
     events:
       - name: Lecture
         start: 10:30 AM
         end: 12:00 PM
-        location: Alef 02
+        location: A1, Ibn Sina Building
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
