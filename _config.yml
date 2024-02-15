@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: FOP Course
-tagline: Sharif FOP
+title: EPS Course
+tagline: Sharif EPS
 description: Sharif University Fundamentals of Programming Course
-author: Sharif FOP
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://sutpy.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+author: Sharif EPS
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://sutpy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 logo: "/assets/images/logo.png"
@@ -42,30 +42,30 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: staffers
     values:
       layout: staffer
       height: 300
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
       width: 300
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
   - scope:
-      path: ''
+      path: ""
       type: lectures
     values:
       layout: lecture
