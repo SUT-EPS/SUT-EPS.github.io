@@ -1,5 +1,5 @@
 ---
-photo: ../images/Ahmadi.jpg
+photo: ../images/ahmadii.jpg
 name: Amirkasra Ahmadi
 role: Teaching Assistant
 Email: a.kasrahmi@gmail.com
