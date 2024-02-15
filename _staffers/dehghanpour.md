@@ -1,5 +1,5 @@
 ---
-photo: ../images/Dehghanpour.jpg
+photo: ../images/dehghanpour.jpg
 name: Amirardalan Dehghanpour
 role: Teaching Assistant
 Email: ardalandehghan0@gmail.com

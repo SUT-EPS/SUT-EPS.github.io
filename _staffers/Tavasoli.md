@@ -1,5 +1,5 @@
 ---
-photo: ../images/Tavasoli.jpg
+photo: ../images/tavasoli.jpg
 name: Maryam Tavasoli
 role: Teaching Assistant
 Email: tavasoli8103@gmail.com

@@ -1,5 +1,5 @@
 ---
-photo: ../images/Lahabi.jpg
+photo: ../images/lahabi.jpg
 name: Pouya Lahabi
 role: Teaching Assistant
 Email: pouya.lahabi@gmail.com

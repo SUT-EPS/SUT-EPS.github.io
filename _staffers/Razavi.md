@@ -1,5 +1,5 @@
 ---
-photo: ../images/Razavi.jpg
+photo: ../images/razavi.jpg
 name: Mobin Razavi
 role: Teaching Assistant
 Email: mobin.razavi2357@gmail.com

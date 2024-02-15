@@ -1,5 +1,5 @@
 ---
-photo: ../images/Hosseintabar.jpg
+photo: ../images/hosseintabar.jpg
 name: Danial Hosseintabar
 role: Teaching Assistant
 Email: dhtdani@gmail.com

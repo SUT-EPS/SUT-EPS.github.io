@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Mohammadi.jpg
+photo: ../assets/images/mohammadi.jpg
 name: Iman Mohammadi
 role: Teaching Assistant
 Email: imanm1381@gmail.com

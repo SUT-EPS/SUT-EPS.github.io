@@ -1,5 +1,5 @@
 ---
-photo: ../images/Daraei.jpg
+photo: ../images/daraei.jpg
 name: Amirmahdi Daraei
 role: Teaching Assistant
 Email: daraieamirmahdi@gmail.com

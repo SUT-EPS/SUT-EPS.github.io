@@ -1,5 +1,5 @@
 ---
-photo: ../images/Ghasemzadeh.jpg
+photo: ../images/ghasemzadeh.jpg
 name: Ali Ghasemzadeh
 role: Teaching Assistant
 Email: lyqasmzadh72@gmail.com

@@ -1,5 +1,5 @@
 ---
-photo: ../images/Ghezelbash.jpg
+photo: ../images/ghezelbash.jpg
 name: Parsa Ghezelbash
 role: nan
 Email: ghezelbash.parsa.ghezelbash83@gmail.com

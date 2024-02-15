@@ -1,5 +1,5 @@
 ---
-photo: ../images/Koohi.jpg
+photo: ../images/koohi.jpg
 name: Farzam Koohi Ronaghi
 role: Teaching Assistant
 Email: farzamkoohi@gmail.com

@@ -1,5 +1,5 @@
 ---
-photo: ../images/Mahmoudkhan.jpg
+photo: ../images/mahmoudkhan.jpg
 name: Pouria Mahmoudkhan Shirazi
 role: Teaching Assistant
 Email: Pouriamahmoudkhan@gmail.com

@@ -1,5 +1,5 @@
 ---
-photo: ../images/Aali.jpg
+photo: ../images/aali.jpg
 name: Moeein Aali
 role: Teaching Assistant
 Email: moeeeinaali@gmail.com

@@ -1,5 +1,5 @@
 ---
-photo: ../images/Babelian.jpg
+photo: ../images/babelian.jpg
 name: Parnaz Babelian
 role: Teaching Assistant
 Email: Babelianparnaz@gmail.com 

@@ -1,5 +1,5 @@
 ---
-photo: ../images/Hossein.jpg
+photo: ../images/eslami.jpg
 name: Mohammad Hossein Eslami
 role: Teaching Assistant
 Email: m20h03e@gmail.com
