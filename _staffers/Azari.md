@@ -1,10 +1,8 @@
 ---
-role: Teaching Assistant
 photo: ../assets/images/Azari.jpg
 name: Amirreza Azari
 role: Teaching Assistant
 Email: amirrezaazari1381@gmail.com
-website: nan
 linkedin: https://www.linkedin.com/in/amirreza-azari-2b3a13229/
 github: https://github.com/Amirreza81
 university: Sharif University of Technology

@@ -1,10 +1,8 @@
 ---
-role: Teaching Assistant
 photo: ../assets/images/Hossein.jpg
 name: Mohammad Hossein Eslami
 role: Teaching Assistant
 Email: m20h03e@gmail.com
-website: nan
 linkedin: .
 github: https://github.com/Mohammad-Hossein-Eslami
 university: Sharif University of Technology

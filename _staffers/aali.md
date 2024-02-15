@@ -1,10 +1,8 @@
 ---
-role: Teaching Assistant
 photo: ../assets/images/Aali.jpg
 name: Moeein Aali
 role: Teaching Assistant
 Email: moeeeinaali@gmail.com
-website: nan
 linkedin: https://www.linkedin.com/in/moeein
 github: https://github.com/MoeeinAali
 university: Sharif University of Technology

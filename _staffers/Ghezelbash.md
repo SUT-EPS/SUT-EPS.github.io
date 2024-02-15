@@ -1,10 +1,8 @@
 ---
-role: Teaching Assistant
 photo: ../assets/images/Ghezelbash.jpg
 name: Parsa Ghezelbash
 role: nan
 Email: ghezelbash.parsa.ghezelbash83@gmail.com
-website: nan
 linkedin: https://www.linkedin.com/in/parsa-ghezelbash-7426a8233/
 github: https://github.com/ParsaGhezelbash
 university: Sharif University of Technology

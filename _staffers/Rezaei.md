@@ -1,5 +1,4 @@
 ---
-role: Teaching Assistant
 photo: ../assets/images/Rezaei.jpg
 name: Parham Rezaei
 role: Teaching Assistant

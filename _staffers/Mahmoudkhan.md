@@ -1,10 +1,8 @@
 ---
-role: Teaching Assistant
 photo: ../assets/images/Mahmoudkhan.jpg
 name: Pouria Mahmoudkhan Shirazi
 role: Teaching Assistant
 Email: Pouriamahmoudkhan@gmail.com
-website: nan
 linkedin: .
 github: https://github.com/pmksh
 university: Sharif University of Technology

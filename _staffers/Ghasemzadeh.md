@@ -1,10 +1,8 @@
 ---
-role: Teaching Assistant
 photo: ../assets/images/Ghasemzadeh.jpg
 name: Ali Ghasemzadeh
 role: Teaching Assistant
 Email: lyqasmzadh72@gmail.com
-website: nan
 linkedin: https://www.linkedin.com/in/ali-ghasemzadeh-77a903266?trk=contact-info
 github: https://github.com/Alighasemzadeh83/git
 university: Sharif University of Technology

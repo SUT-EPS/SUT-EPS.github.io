@@ -1,10 +1,8 @@
 ---
-role: Teaching Assistant
 photo: ../assets/images/Razavi.jpg
 name: Mobin Razavi
 role: Teaching Assistant
 Email: mobin.razavi2357@gmail.com
-website: nan
 linkedin: .
 github: .
 university: Sharif University of Technology
