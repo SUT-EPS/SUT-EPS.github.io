@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/rezaei.jpg
+photo: ../images/rezaei.jpg
 name: Parham Rezaei
 role: Teaching Assistant
 Email: parhamix@gmail.com

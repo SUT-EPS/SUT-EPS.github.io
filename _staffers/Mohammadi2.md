@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/mohammadi2.jpg
+photo: ../images/mohammadi2.jpg
 name: Matin Mohammadi
 role: Teaching Assistant
 Email: matin.mathematics@gmail.com
