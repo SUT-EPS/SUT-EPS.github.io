@@ -53,7 +53,7 @@ The book "Introduction to Statistics and Probability for Engineering and Pure Sc
 
 ## Assessment
 
-- Midterm: 7
-- Final: 8
+- Midterm: 7 Points
+- Final: 8 Points
 - Assignments: 5 Points
 - Practical Assignment with R: +1 point
