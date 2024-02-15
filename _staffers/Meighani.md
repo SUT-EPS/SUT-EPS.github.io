@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Meighani.jpg
+photo: ../images/Meighani.jpg
 name: Amirmahdi Meighani
 role: Teaching Assistant
 Email: Amirmm71382@gmail.com

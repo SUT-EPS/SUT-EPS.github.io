@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Kazemi.jpg
+photo: ../images/Kazemi.jpg
 name: Naser Kazemi
 role: Teaching Assistant
 Email: naserkazemi2002@gmail.com

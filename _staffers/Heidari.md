@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Heidari.jpg
+photo: ../images/Heidari.jpg
 name: Reza Heidari
 role: Teaching Assistant
 Email: r4heidari@gmail.com

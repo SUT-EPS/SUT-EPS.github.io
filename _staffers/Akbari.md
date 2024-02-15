@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Akbari.jpg
+photo: ../images/Akbari.jpg
 name: Taha Akbari
 role: Teaching Assistant
 Email: tahaakbarialvanagh@gmail.com

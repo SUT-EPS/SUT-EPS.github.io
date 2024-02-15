@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Sepasian.jpg
+photo: ../images/Sepasian.jpg
 name: Niki Sepasian
 role: nan
 Email: sepasian.niki@gmail.com

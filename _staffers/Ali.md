@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Ali.jpg
+photo: ../images/Ali.jpg
 name: Mahdi Ali nejad
 role: Teaching Assistant
 Email: mahdiali3804@gmail.com

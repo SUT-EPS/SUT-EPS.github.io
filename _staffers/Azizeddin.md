@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/azizeddin.jpg
+photo: ../images/azizeddin.jpg
 name: Sina azizeddin
 role: Teaching Assistant
 Email: sina.azizeddin@gmail.com 

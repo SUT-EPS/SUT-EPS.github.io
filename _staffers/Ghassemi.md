@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/ghassemi.jpg
+photo: ../images/ghassemi.jpg
 name: kian ghassemi 
 role: Teaching Assistant
 Email: kian.ghassemi1383@gmail.com

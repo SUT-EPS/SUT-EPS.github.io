@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Sheikhha.jpg
+photo: ../images/Sheikhha.jpg
 name: Abolfazl Sheikhha
 role: Teaching Assistant
 Email: abolfazlsheikhha.833@gmail.com

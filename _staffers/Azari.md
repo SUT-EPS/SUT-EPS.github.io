@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Azari.jpg
+photo: ../images/Azari.jpg
 name: Amirreza Azari
 role: Teaching Assistant
 Email: amirrezaazari1381@gmail.com

@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Souri.jpg
+photo: ../images/Souri.jpg
 name: Amirhossein Souri
 role: Teaching Assistant
 Email: amirhsnsouri@gmail.com

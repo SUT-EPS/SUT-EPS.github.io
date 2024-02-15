@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Mahmoudzadeh.jpg
+photo: ../images/Mahmoudzadeh.jpg
 name: Farid Mahmoudzadeh
 role: Teaching Assistant
 Email: faridmahmoudzadeh@gmail.com

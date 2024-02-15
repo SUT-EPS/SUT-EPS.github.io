@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Nazari.jpg
+photo: ../images/Nazari.jpg
 name: Soheil Nazari
 role: Teaching Assistant
 Email: s.nazari80820@gmail.com

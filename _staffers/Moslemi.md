@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Moslemi.jpg
+photo: ../images/Moslemi.jpg
 name: Ramtin Moslemi
 role: Teaching Assistant
 Email: ramtin4moslemi@gmail.com

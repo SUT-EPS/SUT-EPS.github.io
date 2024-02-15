@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Salimipanah.jpg
+photo: ../images/Salimipanah.jpg
 name: Mobina Salimipanah
 role: Teaching Assistant
 Email: Mobina.salimipanah@gmail.com

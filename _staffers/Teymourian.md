@@ -1,5 +1,5 @@
 ---
-photo: ../assets/images/Teymourian.jpg
+photo: ../images/Teymourian.jpg
 name: Mazdak Teymourian
 role: Teaching Assistant
 Email: mazdak.tey@gmail.com
