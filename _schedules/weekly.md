@@ -37,4 +37,9 @@ schedule:
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
+    events:
+      - name: Lecture
+        start: 5:00 PM
+        end: 6:00 PM
+        location: [VClass](https://vc.sharif.edu/ch/amir.najafi-ta)
 ---
