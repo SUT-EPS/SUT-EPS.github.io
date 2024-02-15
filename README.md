@@ -9,8 +9,10 @@ seo:
 ---
 
 
+{:.no_toc}
 # Engineering Probability and Statistics
 
+{:.no_toc}
 
 ## Table of contents
 
