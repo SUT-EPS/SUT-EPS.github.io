@@ -38,7 +38,7 @@ schedule:
   - name: Wednesday
   - name: Thursday
     events:
-      - name: Lecture
+      - name: TA's Class
         start: 5:00 PM
         end: 6:00 PM
 ---
