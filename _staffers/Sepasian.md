@@ -1,7 +1,7 @@
 ---
 photo: ../images/sepasian.jpg
 name: Niki Sepasian
-role: nan
+role: Teaching Assistant
 Email: sepasian.niki@gmail.com
 linkedin: https://linkedin.com/in/niki-sepasian
 github: https://github.com/NikiSP
