@@ -1,9 +1,12 @@
 ---
+role: Teaching Assistant
+photo: ../assets/images/Sheikhha.jpg
 name: Abolfazl Sheikhha
 role: Teaching Assistant
-email: abolfazlsheikhha.833@gmail.com
+Email: abolfazlsheikhha.833@gmail.com
+website: nan
+linkedin: https://www.linkedin.com/in/abolfazl-sheikhha-2ab4a5286
 github: https://github.com/abolfazlce83
-photo: sheikhha.jpg
 university: Sharif University of Technology
 degree: BSc
 ent_year: 1401

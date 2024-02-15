@@ -1,12 +1,12 @@
 ---
 role: Teaching Assistant
-photo: ../assets/images/Aali.jpg
-name: Moeein Aali
+photo: ../assets/images/Razavi.jpg
+name: Mobin Razavi
 role: Teaching Assistant
-Email: moeeeinaali@gmail.com
+Email: mobin.razavi2357@gmail.com
 website: nan
-linkedin: https://www.linkedin.com/in/moeein
-github: https://github.com/MoeeinAali
+linkedin: .
+github: .
 university: Sharif University of Technology
 degree: BSc
 ent_year: 1401

@@ -1,9 +1,12 @@
 ---
+role: Teaching Assistant
+photo: ../assets/images/Forati.jpg
 name: Saeed Forati Kashani
 role: Teaching Assistant
-email: saeed.forati.k@gmail.com
+Email: saeed.forati.k@gmail.com
+website: nan
+linkedin: https://www.linkedin.com/in/saeed-foratikashani/
 github: https://github.com/foratik
-photo: forati.jpg
 university: Sharif University of Technology
 degree: BSc
 ent_year: 1401

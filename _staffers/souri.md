@@ -1,10 +1,12 @@
 ---
+role: Teaching Assistant
+photo: ../assets/images/Souri.jpg
 name: Amirhossein Souri
 role: Teaching Assistant
-email: amirhsnsouri@gmail.com
+Email: amirhsnsouri@gmail.com
+website: nan
+linkedin: https://www.linkedin.com/in/amirhossein-souri/
 github: https://github.com/Amir14Souri
-linkedin: https://www.linkedin.com/in/amirhossein-souri
-photo: souri.jpg
 university: Sharif University of Technology
 degree: BSc
 ent_year: 1401

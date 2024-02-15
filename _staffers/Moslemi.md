@@ -1,0 +1,14 @@
+---
+role: Teaching Assistant
+photo: ../assets/images/Moslemi.jpg
+name: Ramtin Moslemi
+role: Teaching Assistant
+Email: ramtin4moslemi@gmail.com
+website: nan
+linkedin: https://www.linkedin.com/in/ramtin-m
+github: https://github.com/RamtinMoslemi
+university: Sharif University of Technology
+degree: BSc
+ent_year: 1399
+major: Computer Engineering
+---

@@ -1,12 +1,12 @@
 ---
 role: Teaching Assistant
-photo: ../assets/images/Aali.jpg
-name: Moeein Aali
+photo: ../assets/images/azizeddin.jpg
+name: Sina azizeddin
 role: Teaching Assistant
-Email: moeeeinaali@gmail.com
+Email: sina.azizeddin@gmail.com 
 website: nan
-linkedin: https://www.linkedin.com/in/moeein
-github: https://github.com/MoeeinAali
+linkedin: .
+github: https://github.com/sinaazizeddin
 university: Sharif University of Technology
 degree: BSc
 ent_year: 1401

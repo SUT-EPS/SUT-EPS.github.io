@@ -1,10 +1,12 @@
 ---
+role: Teaching Assistant
+photo: ../assets/images/Hosseintabar.jpg
 name: Danial Hosseintabar
 role: Teaching Assistant
-email: dhtdani@gmail.com
+Email: dhtdani@gmail.com
+website: nan
+linkedin: https://www.linkedin.com/in/danial-hosseintabar-22747a239
 github: https://github.com/Danial-Hosseintabar
-linkedin: https://linkedin.com/in/danial-hosseintabar-22747a239
-photo: hosseintabar.jpg
 university: Sharif University of Technology
 degree: BSc
 ent_year: 1401

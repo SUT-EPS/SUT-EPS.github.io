@@ -1,0 +1,14 @@
+---
+role: Teaching Assistant
+photo: ../assets/images/Akbari.jpg
+name: Taha Akbari
+role: Teaching Assistant
+Email: tahaakbarialvanagh@gmail.com
+website: nan
+linkedin: https://www.linkedin.com/in/taha-akbari-alvanagh-932987220/
+github: https://github.com/Taha1506
+university: Sharif University of Technology
+degree: BSc
+ent_year: 1399
+major: Computer Engineering
+---
