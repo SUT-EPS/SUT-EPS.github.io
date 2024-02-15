@@ -11,7 +11,6 @@ seo:
 
 # Engineering Probability and Statistics
 
-{:.no_toc}
 
 ## Table of contents
 
