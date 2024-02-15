@@ -1,5 +1,5 @@
 ---
-photo: ../images/Meskin.jpg
+photo: ../images/meskin.jpg
 name: Asal Meskin
 role: Teaching Assistant
 Email: asalmskin82@gmail.com 

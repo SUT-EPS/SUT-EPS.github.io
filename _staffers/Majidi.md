@@ -1,5 +1,5 @@
 ---
-photo: ../images/Majidi.jpg
+photo: ../images/majidi.jpg
 name: Ashkan Majidi Khamene
 role: Teaching Assistant
 Email: ashkan.majidi.1382@gmail.com

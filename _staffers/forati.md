@@ -1,5 +1,5 @@
 ---
-photo: ../images/Forati.jpg
+photo: ../images/forati.jpg
 name: Saeed Forati Kashani
 role: Teaching Assistant
 Email: saeed.forati.k@gmail.com

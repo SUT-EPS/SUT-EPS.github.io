@@ -1,5 +1,5 @@
 ---
-photo: ../images/Nafe.jpg
+photo: ../images/nafe.jpg
 name: Asemaneh Nafe
 role: Teaching Assistant
 Email: asemanehnafe2@gmail.com
