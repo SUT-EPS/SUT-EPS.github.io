@@ -39,7 +39,7 @@ The book "Introduction to Statistics and Probability for Engineering and Pure Sc
 
 - Questions and answers, class discussions, and news related to the course, as well as uploading exercise solutions, are all done through the [Quera](https://quera.org/course/add_to_course/course/16593/) website.
 - The schedule for exercise sessions will be announced later.
-- The course assistant is Mr. Arman Malekzadeh (email: <malekzadeh@ieee.org>).
+- The head teaching assistant is Arman Malekzadeh (email: <malekzadeh@ieee.org>).
 
 **Exercises and exams:**
 
@@ -56,4 +56,4 @@ The book "Introduction to Statistics and Probability for Engineering and Pure Sc
 - Midterm: 7
 - Final: 8
 - Assignments: 5 Points
-- R-Project: +1 Points
+- Practical Assignment with R: +1 point
