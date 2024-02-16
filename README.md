@@ -10,7 +10,7 @@ seo:
 
 
 {:.no_toc}
-# Engineering Probability and Statistics
+# Engineering Probability and Statistics ~ Spring 2024
 
 {:.no_toc}
 
