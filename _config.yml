@@ -18,7 +18,7 @@ tagline: Sharif EPS
 description: Sharif University Engineering Probability and Statistics Course
 author: Sharif EPS
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://https://sut-eps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sut-eps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 logo: "/assets/images/logo.png"
