@@ -27,6 +27,8 @@ seo:
 
 **Course Sources:**
 
+The Course will be instructed by Dr. Amir Najafi (email: <amir.najafi@sharif.edu>).
+
 Main source:
 
 The book "Probability, Random Variables, and Stochastic Processes," written by A. Papoulis and S. U. Pillai.
@@ -46,7 +48,6 @@ The book "Introduction to Statistics and Probability for Engineering and Pure Sc
 - The course includes 6 theoretical exercise series and possibly one practical exercise.
 - Time: Saturdays and Tuesdays, from 10:30 AM to 12:00 PM.
 - Location: Class A1, Ibn Sina Building.
-- Instructor: Amir Najafi (email: <amir.najafi@sharif.edu>).
 - Each exercise has a non-extendable deadline of 10 days, and the maximum allowable delay is 2 days. A 25% reduction in score will be applied for each day of delay (linear reduction during these 2 days).
 - Practical exercises (if any) will have a separate schedule, which will be announced later. Exercises conflicting with the midterm exam will have an additional 2 days deadline extension.
 - A midterm exam will be held in the second week of Ordibehesht month (exact times will be announced later).
