@@ -1,0 +1,7 @@
+---
+title: Announcement 4
+week: 7
+date: 2024-03-15
+---
+[ractical Assignment](../assets/lectures/Prob_and_Stats_Practical_Assignment.ipynb) has been released.
+You can submit it until the end of 10th Ordibehesht. The maximum allowed time for submission is 2 days. A 25% penalty will be applied for each day of delay (starting from the first day of delay, with a decreasing score for each subsequent day).
